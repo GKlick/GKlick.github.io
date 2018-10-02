@@ -1,34 +1,9 @@
 ---
 layout: post
-title: **Maximizing the New York Minute** 
+title: Maximizing the New York Minute
 ---
 
-This is a test post. 
+Weaving through the NYC subway commute, an untrained eye would see only chaos amongst the 6 million daily passengers. A data scientist, however, would see an intricate data set for answering a key marketing question - how to maximize market exposure while minimizing costs. And thinking like a data scientist is the first step of my data science bootcamp journey. 
 
-To make a post, you must follow the naming convention shown for this file,
-with the data as the first part of the file name, seperated by dashes. Then
-the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
-
-```
----
-layout: post
-title: Gabe's Test Post
----
-```
-
-Part in the post to tell the page how to title your post and how to render it.
-
-Below are some examples of loading images, making links, and doing other
-markdown-y things.
-
-
-[This is a link](http://thisismetis.com)
-
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
-
-### Other things
-* Like
-* lists
-* and 
-* stuff
+Given a client’s question on where and when to strategically place street teams, MTA turnstile recordings provides a myriad of open source data for completing this request. It also provides an opportunity for me to learn more about the data science approach as well as providing a minimum viable product for a client.
+***
