@@ -3,6 +3,8 @@ layout: post
 title: Maximizing the New York Minute
 ---
 
+![placeholder](https://github.com/GKlick/GKlick.github.io/blob/master/images/PassengerRatePriorityVsOther.png800x400 "Large example image")
+
 Weaving through the NYC subway commute, an untrained eye would see only chaos amongst the 6 million daily passengers. A data scientist, however, would see an intricate data set for answering a key marketing question - how to maximize market exposure while minimizing costs. And thinking like a data scientist is the first step of my data science bootcamp journey. 
 
 Given a client’s question on where and when to strategically place street teams, MTA turnstile recordings provides a myriad of open source data for completing this request. It also provides an opportunity for me to learn more about the data science approach as well as providing a minimum viable product for a client.
@@ -16,7 +18,7 @@ Impressions : Data Science
 Conversion Rate : Intuition
 
 First  we aimed to maximize the street team’s conversion rate by placing them in key areas where the average commuter would be most interested in the organization’s mission. The next step would be to maximize the volume of foot traffic the street teams could meet by finding the stations within the selected regions with the highest average hourly passenger hour.
----
+***
 The client provided the following goals:
   1. Build Awareness
   2. Fill event space
