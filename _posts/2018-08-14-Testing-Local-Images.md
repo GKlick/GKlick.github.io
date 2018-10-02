@@ -3,7 +3,7 @@ layout: post
 title: Maximizing the New York Minute
 ---
 
-![placeholder](https://github.com/GKlick/GKlick.github.io/blob/master/images/PassengerRatePriorityVsOther.png800x400 "Large example image")
+![placeholder](https://images/PassengerRatePriorityVsOther.png800x400 "Large example image")
 
 Weaving through the NYC subway commute, an untrained eye would see only chaos amongst the 6 million daily passengers. A data scientist, however, would see an intricate data set for answering a key marketing question - how to maximize market exposure while minimizing costs. And thinking like a data scientist is the first step of my data science bootcamp journey. 
 
