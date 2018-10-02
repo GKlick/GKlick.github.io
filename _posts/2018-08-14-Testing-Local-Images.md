@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maximizing the New York Minute
+title: Maximizing a New York Minute
 ---
 
 Weaving through the NYC subway commute, an untrained eye would see only chaos amongst the 6 million daily passengers. A data scientist, however, would see an intricate data set for answering a key marketing question - how to maximize market exposure while minimizing costs. And thinking like a data scientist is the first step of my data science bootcamp journey. 
