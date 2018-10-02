@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gabe's Test Post
+title: Maximizing the New York Minute 
 ---
 
 This is a test post. 
