@@ -6,13 +6,22 @@ title: Maximizing the New York Minute
 Weaving through the NYC subway commute, an untrained eye would see only chaos amongst the 6 million daily passengers. A data scientist, however, would see an intricate data set for answering a key marketing question - how to maximize market exposure while minimizing costs. And thinking like a data scientist is the first step of my data science bootcamp journey. 
 
 Given a client’s question on where and when to strategically place street teams, MTA turnstile recordings provide a myriad of open source data for completing this request. It also provides an opportunity for me to learn more about the data science approach as well as providing a minimum viable product for a client.
-***
-My team’s approach was to combine data science techniques with key intuitions in order to maximize both quantity and quality. 
+
+Week 1 of my Data Science bootcamp started by partnering with two cohartmates
+to deliver a data exploration project. Coming from a multitude 
+of backgrounds allowed us each to bring a different skill set for solving our question:
+where and when should we send the client’s streat teams. I encourage you to visit Charlie and Jake’s blog for their own uniques write-ups of this case.
+
+
+Our vision was to combine data science techniques with key intuitions in order to maximize both quantity and quality. 
 
 This concept stated as an equation would be: 
 Reach = Impressions x Conversion Rate
-         Where:
+
+Where:
+
 Impressions : Data Science
+
 Conversion Rate : Intuition
 
 First  we aimed to maximize the street team’s conversion rate by placing them in key areas where the average commuter would be most interested in the organization’s mission. The next step would be to maximize the volume of foot traffic the street teams could meet by finding the stations within the selected regions with the highest average hourly passenger hour.
