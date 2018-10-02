@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ###Maximizing the New York Minute 
+title: **Maximizing the New York Minute** 
 ---
 
 This is a test post. 
