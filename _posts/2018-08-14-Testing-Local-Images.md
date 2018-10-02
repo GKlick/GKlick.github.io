@@ -13,9 +13,10 @@ of backgrounds allowed us each to bring a different skill set for solving our qu
 where and when should we send the client’s streat teams. I encourage you to visit Charlie and Jake’s blog for their own uniques write-ups of this case.
 
 
-Our vision was to combine data science techniques with key intuitions in order to maximize both quantity and quality. 
+Our vision was to combine data science techniques with our intuitions in order to maximize both quantity and quality. 
 
 This concept stated as an equation would be: 
+
 Reach = Impressions x Conversion Rate
 
 Where:
@@ -24,8 +25,9 @@ Impressions : Data Science
 
 Conversion Rate : Intuition
 
-First  we aimed to maximize the street team’s conversion rate by placing them in key areas where the average commuter would be most interested in the organization’s mission. The next step would be to maximize the volume of foot traffic the street teams could meet by finding the stations within the selected regions with the highest average hourly passenger hour.
-***
+First we aimed to maximize the street team’s conversion rate by placing them in areas where it would be expected commuters would be most interested in the organization’s mission. Within these areas we then wanted to find the stations with the higest volume of foot traffic, which we defined as average hourly passenger rate.
+
+
 The client provided the following goals:
   1. Build Awareness
   2. Fill event space
